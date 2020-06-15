@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'NzIxMTAzODQ4NTA0MTY0NDA0.XuPqew.JZdNP-mC5X2AdhRe3kTHjfm9qOk';
+const token = '';
 var stf_count = 0;
 const PREFIX = '!';
 const words = ['stuffed', 'Stuffed', 'STUFFED', 'stuff', 'Stuff', 'STUFF'];
